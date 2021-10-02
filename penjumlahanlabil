@@ -4,11 +4,12 @@
     $b = 2;
     $c = 3;
     $d = 4;
+    $e = 5;
  
     echo "<br/> PENJUMLAHAN <br/>";
-    echo $a+$b; //tercetak 5
+    echo $a+$b+$e; //tercetak 5
     echo "<br/>";
-    $f = $c+$d;
+    $f = $c+$d+$e;
     echo $f;        //tercetak 15
     echo "<br/>";
  
